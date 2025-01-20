@@ -1,0 +1,71 @@
+#one
+{
+background-color:#8a00ff;
+color:pink;
+padding:30px;
+width:35px;
+margin:20px;
+border-radius:10px 10px 10px 10px;
+}
+#two
+{
+background-color:green;
+color:#47ca92;
+width:30px;
+padding:30px;
+border-left:10px solid #255113;
+border-right:10px solid #1cc60b;
+border-top:10px solid #1ba703;
+border-bottom:10px solid #1cc60b;
+margin-left:120px;
+border-radius:15px 15px 15px 15px;
+}
+#three
+{
+background-color:yellow;
+width:50px;
+padding:80px;
+border-radius:10px 10px 10px 10px;
+border:4px dashed red;
+margin-left:250px;
+}
+#tre
+{
+background-color:#d580e3;
+width:30px;
+padding:20px;
+border:4px dashed #500c5b;
+border-radius:5px;
+margin-right:20px;
+}
+#four
+{
+width:30px;
+background-color:#53c853;
+color:green;
+padding:30px;
+margin-left:500px;
+border:10px solid green;
+border-radius:15px 15px 15px 15px;
+}
+#five
+{
+width:30px;
+background-color:#b03ca3;
+color:white;
+padding:25px;
+margin-left:610px;
+border:5px solid #d274c7;
+border-radius:15px 15px 15px 15px;
+}
+#six
+{
+width:30px;
+background-color:#bb591b;
+color:pink;
+padding:30px;
+margin-left:700px;
+border:5px dashed #792a70;
+border-radius:15px 15px 15px 15px;
+}
+
